@@ -1,5 +1,0 @@
-com\javatechie\KafkaDemoApplication.class
-com\javatechie\publisher\KafkaMessagePublisher.class
-com\javatechie\controller\EventController.class
-com\javatechie\config\KafkaConfig.class
-com\javatechie\dto\User.class
